@@ -1,0 +1,11 @@
+{
+"companyName": "Mayachron",
+"productName": "MAYACHRON",
+"dataUrl": "Mayachron Beta 1.1.data.unityweb",
+"asmCodeUrl": "Mayachron Beta 1.1.asm.code.unityweb",
+"asmMemoryUrl": "Mayachron Beta 1.1.asm.memory.unityweb",
+"asmFrameworkUrl": "Mayachron Beta 1.1.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
